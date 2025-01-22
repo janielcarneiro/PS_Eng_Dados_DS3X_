@@ -230,7 +230,7 @@ for file_path in file_paths:
 
 
  ```
-# Melhorias Fara projeto <br>
+# Melhorias Para o projeto <br>
  1 - Dividir o codigo em arquivos diferentes com função <br>
  2 - criar uma função pra renomear o nome dos arquivos automatico <br>
 
