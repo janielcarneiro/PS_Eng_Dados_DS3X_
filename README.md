@@ -25,7 +25,8 @@ pip install selenium webdriver-manager pandas google-cloud-bigquery<br>
 Temos apenas um arquivo app.py com os algoritmos
 
 execute primeiro esse trecho de codigo é comente o restante abaixo, que esta abaixo dele:
-```import os
+```
+import os
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
